@@ -1,0 +1,41 @@
+DEBUG 2020-06-13 05:20:55,884 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-06-13 05:20:55,967 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2020-06-13 05:20:55,982 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyProjectCore.Web.Startup.MyProjectCoreWebMvcModule, MyProjectCore.Web.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-13 05:20:55,983 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyProjectCore.MyProjectCoreWebCoreModule, MyProjectCore.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-13 05:20:55,983 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyProjectCore.MyProjectCoreApplicationModule, MyProjectCore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-13 05:20:55,984 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyProjectCore.MyProjectCoreCoreModule, MyProjectCore.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-13 05:20:55,984 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-13 05:20:55,984 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-13 05:20:55,984 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-13 05:20:55,985 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-13 05:20:55,985 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyProjectCore.EntityFrameworkCore.MyProjectCoreEntityFrameworkModule, MyProjectCore.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-13 05:20:55,985 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-13 05:20:55,985 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-13 05:20:55,985 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-13 05:20:55,985 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=5.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-13 05:20:55,986 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-13 05:20:55,986 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=5.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-13 05:20:55,988 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2020-06-13 05:20:56,068 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-06-13 05:20:56,068 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-06-13 05:20:56,068 [1    ] o.Configuration.LanguageManagementConfig - Converted MyProjectCore (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-06-13 05:20:56,068 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-06-13 05:20:56,453 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: MyProjectCore.EntityFrameworkCore.MyProjectCoreDbContext, MyProjectCore.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-13 05:20:57,226 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2020-06-13 05:20:57,287 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-06-13 05:20:57,332 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-06-13 05:20:57,352 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: MyProjectCore
+DEBUG 2020-06-13 05:20:57,381 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2020-06-13 05:20:57,550 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-06-13 05:20:57,653 [1    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[MyProjectCore.MultiTenancy.Tenant, MyProjectCore.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[MyProjectCore.Authorization.Users.User, MyProjectCore.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2020-06-13 05:20:57,695 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 10 classes define auto mapping attributes
+DEBUG 2020-06-13 05:20:57,695 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyProjectCore.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2020-06-13 05:20:57,699 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyProjectCore.Users.Dto.CreateUserDto
+DEBUG 2020-06-13 05:20:57,700 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyProjectCore.Users.Dto.UserDto
+DEBUG 2020-06-13 05:20:57,700 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyProjectCore.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2020-06-13 05:20:57,700 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyProjectCore.Sessions.Dto.UserLoginInfoDto
+DEBUG 2020-06-13 05:20:57,700 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyProjectCore.Roles.Dto.PermissionDto
+DEBUG 2020-06-13 05:20:57,700 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyProjectCore.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2020-06-13 05:20:57,701 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyProjectCore.MultiTenancy.Dto.TenantDto
+DEBUG 2020-06-13 05:20:57,701 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyProjectCore.Web.Views.Shared.Components.TenantChange.TenantChangeViewModel
+DEBUG 2020-06-13 05:20:57,701 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyProjectCore.Web.Models.Roles.EditRoleModalViewModel
